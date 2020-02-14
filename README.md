@@ -33,3 +33,8 @@ Then install the missing dependencies, (Pandas, neuromirpholib):
 > python.exe -m pip install pandas --user
 > python.exe -m pip install neuromorpholib --user
 
+```
+if (isAwesome){
+  return true
+}
+```
