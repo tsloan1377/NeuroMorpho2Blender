@@ -25,14 +25,12 @@ To do this, open a command prompt and navigate to where blender is installed, i.
 
 ```
   cd path_to_blender\2.80\python\bin
-  
 ```
   
 The ensure pip is there:
 
 ```
   python.exe -m ensurepip
-  
 ```
 Then install the missing dependencies, (Pandas, neuromirpholib):
 
@@ -41,5 +39,4 @@ Then install the missing dependencies, (Pandas, neuromirpholib):
 ```
   python.exe -m pip install pandas --user
   python.exe -m pip install neuromorpholib --user
-  
 ```
