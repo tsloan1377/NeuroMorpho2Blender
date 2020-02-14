@@ -8,7 +8,7 @@ For example, one can play neuro-roulette by finding random neurons:
 [Sample some random neurons](http://neuromorpho.org/byRandom.jsp)
 
 Once you find one you like, find it's unique ID :
-i.e for [this neurons](http://neuromorpho.org/neuron_info.jsp?neuron_name=4H-13traced-7)
+i.e for [this example neuron](http://neuromorpho.org/neuron_info.jsp?neuron_name=4H-13traced-7)
 
 NeuroMorpho.Org ID : 	NMO_56794
 Only the number "56794" is needed to download it's swc into Blender.
