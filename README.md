@@ -5,12 +5,10 @@ Python scripts to load swc files from neuromorpho.org into Blender. The part of 
 This Jupyter notebook and accompanying Python script allow users to programmatically access neuronal reconstructions from the NeuroMorpho.org database. 
 For example, one can play neuro-roulette by finding random neurons:
 
-http://neuromorpho.org/byRandom.jsp
+[Sample some random neurons](http://neuromorpho.org/byRandom.jsp)
 
 Once you find one you like, find it's unique ID :
-i.e for this neurons:
-
-http://neuromorpho.org/neuron_info.jsp?neuron_name=4H-13traced-7
+i.e for [this neurons](http://neuromorpho.org/neuron_info.jsp?neuron_name=4H-13traced-7)
 
 NeuroMorpho.Org ID : 	NMO_56794
 Only the number "56794" is needed to download it's swc into Blender.
