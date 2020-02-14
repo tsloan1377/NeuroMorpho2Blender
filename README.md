@@ -22,7 +22,7 @@ If Blender 2.8 is already installed, the trickiest part of the process is making
 
 To do this, open a command prompt and navigate to where blender is installed, i.e.
 
-<cd path_to_blender\2.80\python\bin>
+"cd path_to_blender\2.80\python\bin"
   
 The ensure pip is there:
 
